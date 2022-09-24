@@ -1,0 +1,28 @@
+@charset "UTF-8";
+thead{
+	background-color: black;
+	color:white;
+	font-weight:bold;
+}
+.bg-city{ 
+    background-image: url("El pasado ya no existe amor_.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    backdrop-filter: blur(3px);
+}
+.or{
+    display: block;
+    position: absolute;
+    margin-top: 6px;
+    padding-top: 6px;
+    z-index: 10;
+    background-color: white;
+    color:lightslategrey;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 45px;
+}

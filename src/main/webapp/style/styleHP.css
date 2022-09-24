@@ -1,0 +1,12 @@
+.lottery{
+    max-width: 720px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.lottery .col-edit{
+    width: 75px;
+}
+.lottery .bg-custom{
+    background-color: lightgrey;
+}
